@@ -1,2 +1,2 @@
 # OOAP
-Repository for laboratory
+Repository for laboratory at the university
